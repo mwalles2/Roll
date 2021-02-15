@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Die",
+        "repositoryURL": "git@github.com:mwalles2/Die.git",
+        "state": {
+          "branch": null,
+          "revision": "078b0473efb465679162712dc0d2a02026e68d49",
+          "version": "1.0.0-beta.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
